@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+aiops/
+uploads/*
+!uploads/.gitkeep
